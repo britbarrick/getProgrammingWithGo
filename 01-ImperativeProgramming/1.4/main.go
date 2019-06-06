@@ -1,3 +1,4 @@
+// "Variable Scope"
 package main
 
 import (

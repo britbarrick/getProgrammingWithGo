@@ -1,3 +1,4 @@
+// "Get Ready, Get Set, Go"
 package main
 
 import "fmt"

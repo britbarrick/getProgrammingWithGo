@@ -1,3 +1,4 @@
+// "A Glorified Calculator"
 package main
 
 import "fmt"
